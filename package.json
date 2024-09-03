@@ -16,7 +16,7 @@
     "react": "18.2.0",
     "react-native": "0.73.3",
     "react-native-bouncy-checkbox": "^3.0.7",
-    "react-native-phyllo-connect": "^0.3.6",
+    "react-native-phyllo-connect": "git+ssh://git@github.com:getphyllo/phyllo-connect-reactnative.git#fixes/multiple_callback",
     "react-native-simple-toast": "^3.2.0"
   },
   "devDependencies": {
